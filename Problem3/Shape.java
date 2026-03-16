@@ -1,4 +1,4 @@
-package Summary.Problem3;
+package Problem3;
 
 public abstract class Shape {
     protected String name;

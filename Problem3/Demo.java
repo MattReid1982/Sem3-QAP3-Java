@@ -1,4 +1,4 @@
-package Summary.Problem3;
+package Problem3;
 
 public class Demo {
     public static void main(String[] args) {

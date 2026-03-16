@@ -1,4 +1,4 @@
-package Summary.Problem3;
+package Problem3;
 
 public class Ellipse extends Shape {
     private double a;

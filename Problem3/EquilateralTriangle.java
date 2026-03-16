@@ -1,4 +1,4 @@
-package Summary.Problem3;
+package Problem3;
 
 public class EquilateralTriangle extends Triangle {
     public EquilateralTriangle(double side) {

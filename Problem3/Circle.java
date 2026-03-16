@@ -1,4 +1,4 @@
-package Summary.Problem3;
+package Problem3;
 
 public class Circle extends Shape {
     private double radius;
