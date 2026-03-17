@@ -21,8 +21,8 @@ Difficulty 1-5?: 5
 NOTE: not great at the math side of things, but trying to improve.
 
 PROBLEM #4
-Time to complete?: 1.5hrs
-Resources used?: Previous class problem examples
+Time to complete?: 1.0hrs
+Resources used?: Previous class problem examples / google
 Help from classmates?: NO
 Help from Instructors?: NO
 Difficulty 1-5?: 3
